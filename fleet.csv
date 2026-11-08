@@ -1,0 +1,3 @@
+id,type,brand,year,capacity,status
+V001,Car,Toyota,2022,5,ACTIVE
+V002,Truck,Hino,2024,4,ACTIVE
